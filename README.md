@@ -1,4 +1,4 @@
-﻿# 🚀 Gestor
+# 🚀 Gestor
 
 <p align="center">
   <img src="assets/main_preview.png" alt="Gestor Main Preview" width="800">
@@ -10,13 +10,11 @@
 * **Python 3.14**: Core programming language.
 * **CustomTkinter**: Modern UI library with native Light/Dark mode support.
 * **JSON**: Data persistence system for local storage.
-* **PyInstaller**: Professional software packaging for Windows distribution (.exe).
 
 ## ✨ Key Features
 * **Status Management**: Complete task lifecycle (Pending, In Progress, Done).
 * **Smart Prioritization**: Visual organization by urgency levels (High, Medium, Low).
 * **Real-time Search**: Dynamic filtering of registered tasks.
-* **Audit Reports**: Export functionality to \.txt\ for productivity history.
 
 ### 📊 Workflow & UI
 <p align="center">
@@ -25,25 +23,14 @@
 </p>
 
 ## 🚀 Installation & Usage
-
 1. **Clone the repository:**
    \\\ash
    git clone https://github.com/Jorgeotero1998/Gestor.git
    \\\
-2. **Install dependencies:**
-   \\\ash
-   pip install customtkinter
-   \\\
-3. **Run the application:**
+2. **Run the application:**
    \\\ash
    python main.py
    \\\
-
-## 📦 Distribution
-To generate the professional standalone executable:
-\\\ash
-python -m PyInstaller --noconsole --onefile --name="Gestor" main.py
-\\\
 
 ---
 Developed with a focus on Clean Code and Modern Desktop Architecture.
