@@ -24,13 +24,12 @@
 
 ## 🚀 Installation & Usage
 1. **Clone the repository:**
-   \\\ash
    git clone https://github.com/Jorgeotero1998/Gestor.git
-   \\\
+  
 2. **Run the application:**
-   \\\ash
+
    python main.py
-   \\\
+
 
 ---
 Developed with a focus on Clean Code and Modern Desktop Architecture.
