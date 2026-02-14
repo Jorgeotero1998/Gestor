@@ -29,7 +29,11 @@
 2. **Run the application:**
 
    python main.py
+# 🚀 Proyecto Gestor
 
+### 🔗 Enlaces del Proyecto Final
+* **🌐 Plataforma (Web):** [Ver Presentación en Gamma](https://gestor-admin-tareas-4owd6x6.gamma.site/)
+* **📖 Documentación:** [Libro de Prompts en Notion](https://private-chicory-136.notion.site/LIBRO-DE-PROMPTS-PROYECTO-GESTOR-30707565022480d98a12db06c3e50503)
 
 ---
 Developed with a focus on Clean Code and Modern Desktop Architecture.
